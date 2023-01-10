@@ -2,13 +2,13 @@
 ICTN 4022 Team GeekSquad code 
 
 
-test test
+test test   
 readme
-README
+README   
 Arduino
 
-Josh - Subject Matter Expert
-Mike - Backup Team Lead
-Jake - Submission Expert
-Rhett - Scribe
-Ben - Team Lead
+Josh - Subject Matter Expert   
+Mike - Backup Team Lead   
+Jake - Submission Expert   
+Rhett - Scribe   
+Ben - Team Lead   
