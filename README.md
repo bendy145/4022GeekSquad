@@ -7,8 +7,8 @@ readme
 README
 Arduino
 
-Josh
-Mike
-Jake
-Rhett
-Ben
+Josh - Subject Matter Expert
+Mike - Backup Team Lead
+Jake - Submission Expert
+Rhett - Scribe
+Ben - Team Lead
